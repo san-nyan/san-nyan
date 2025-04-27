@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm paw</h1>
 <h3 align="center">a random femboy with access to chatgpt</h3>
 
-<p align="center">I mostly work on getting things to work on [Arch Linux](https://archlinux.org/)</p>
+<p align="center">I mostly work on getting things to work on <a href="https://archlinux.org">Arch Linux</a></p>
 <p align="center">but sometimes i need some very specific app or script that i either write in python tkinter or use chatgpt to make some shitty electron app</p>
 
 <h3 align="left">Connect with me:</h3>
