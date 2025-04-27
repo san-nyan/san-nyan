@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm paw</h1>
+<h2 align="center">Hi, I'm paw</h2>
 <h3 align="center">a random femboy with access to chatgpt</h3>
 
 <p align="center">I mostly work on getting things to work on <a style="font-family:monospace;text-decoration:none;background-color:#010409" href="https://archlinux.org">Arch Linux</a></p>
